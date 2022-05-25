@@ -1,0 +1,23 @@
+div {
+    border: 1px solid black;
+    height: 75px;
+    width: 75px;
+    margin: 10px;
+    display: inline-block;
+}
+
+#color1 {
+    background-color: green;
+}
+
+#color2 {
+    background-color: yellowgreen;
+}
+
+#color3 {
+    background-color: rgb(216, 216, 25);
+}
+
+#color4 {
+    background-color: rgb(82, 82, 82);
+}
