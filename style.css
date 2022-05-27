@@ -1,9 +1,23 @@
-div {
-    border: 1px solid black;
-    height: 75px;
-    width: 75px;
-    margin: 10px;
+#color-palette {
+    /* border: 1px solid black; */
     display: inline-block;
+    /* width: 170px;
+    height: 45px; */
+}
+
+
+#pixel-board {
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    width: 210px;
+}
+
+.color {
+    border: 1px solid black;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
 }
 
 #color1 {
@@ -20,4 +34,17 @@ div {
 
 #color4 {
     background-color: rgb(216, 216, 25);
+}
+
+.pixel {
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    display: inline-block;
+    float:left;
+}
+
+div {
+    margin: 0%;
 }
