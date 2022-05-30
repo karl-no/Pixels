@@ -26,6 +26,7 @@ function pixelArt() {
     });
   }
 }
+pixelArt();
 
 // function pintaPixel() {
 //   const pixel = document.querySelectorAll('.pixel');
