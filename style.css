@@ -48,3 +48,8 @@
 div {
     margin: 0%;
 }
+
+button {
+    display:block;
+    margin: 5px;
+}
